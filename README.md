@@ -1,13 +1,19 @@
-# Frontend Mentor - File Transfer pricing component
+# Pricing component with pure css interactions and own Gulp tasks
 
-![Design preview for the File Transfer pricing component coding challenge](./design/desktop-preview.jpg)
+Live URL: [https://stupefied-heisenberg-52de30.netlify.app/](https://stupefied-heisenberg-52de30.netlify.app/)
 
-## Welcome! 👋
+## Technology stack
+  - SCSS
+  - HTML
+  - Gulp (tasks: compiles sass, minify files and optimize images)
 
-Thanks for checking out my solution for this challenge. :blush:
+## Preview design
+Design come from [Frontend Mentor](https://frontendmentor.io) website and it is a one of their challenges.
 
-Check [Frontend Mentor](https://frontendmentor.io) website. Their challenges allow you to improve your skills in a real-life workflow.
+![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
+
 
 ## Lighthouse report
 
-![Lighthouse report for my solution](./lighthouse-report/lighthouse-16-challenge.JPG)
+![Lighthouse report for my solution](./lighthouse-report/lighthouse.jpg)
+
