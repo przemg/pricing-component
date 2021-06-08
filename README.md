@@ -1,6 +1,6 @@
 # Pricing component with pure css interactions and own Gulp tasks
 
-Live URL: [https://stupefied-heisenberg-52de30.netlify.app/](https://stupefied-heisenberg-52de30.netlify.app/)
+Live URL: [https://sleepy-kare-9151b6.netlify.app/](https://sleepy-kare-9151b6.netlify.app/)
 
 ## Technology stack
   - SCSS
@@ -15,5 +15,5 @@ Design come from [Frontend Mentor](https://frontendmentor.io) website and it is 
 
 ## Lighthouse report
 
-![Lighthouse report for my solution](./lighthouse-report/lighthouse.jpg)
+![Lighthouse report for my solution](./lighthouse-report/lighthouse.JPG)
 
