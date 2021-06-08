@@ -1,4 +1,5 @@
 # Pricing component with pure css interactions and own Gulp tasks
+:iphone: Website is fully responsive
 
 Live URL: [https://sleepy-kare-9151b6.netlify.app/](https://sleepy-kare-9151b6.netlify.app/)
 
